@@ -3,3 +3,4 @@
 1. Stacking Ensemble
 2. Linear Mixed Model
 3. Normal Equation
+4. Gradient descent
