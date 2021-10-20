@@ -4,5 +4,5 @@
 2. Linear Mixed Model(수정중)
 3. Normal Equation
 4. Gradient descent
-5. Feature Pyramid Network(수정중)
+5. Feature Pyramid Network
 6. Mask RCNN (진행중)
