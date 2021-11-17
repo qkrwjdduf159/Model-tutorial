@@ -6,4 +6,5 @@
 4. Gradient descent
 5. Feature Pyramid Network
 6. Mask RCNN
-7. U-Net (준비중)
+7. U-Net
+8. YOLO v1 (준비중)
