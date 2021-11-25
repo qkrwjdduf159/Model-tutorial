@@ -1,10 +1,17 @@
 # 모델에 대한 설명과 튜토리얼 코드를 작성합니다.
+## basic theorem
+1. Normal Equation
+2. Gradient descent
 
+## Ensemble Model
 1. Stacking Ensemble
-2. Linear Mixed Model(수정중)
-3. Normal Equation
-4. Gradient descent
-5. Feature Pyramid Network
-6. Mask RCNN
-7. U-Net
-8. YOLO v1 (준비중)
+
+## Computer vision
+1. Feature Pyramid Network
+2. Mask RCNN
+3. U-Net
+4. YOLO v1 (진행중)
+
+## Statistic Model
+1. Linear Mixed Model(수정중)
+
