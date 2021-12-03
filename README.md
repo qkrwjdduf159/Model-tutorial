@@ -9,7 +9,7 @@
 ## Computer vision
 1. Feature Pyramid Network
 2. Mask RCNN
-3. U-Net
+3. U-Net (수정중)
 4. YOLO v1 (진행중)
 
 ## Statistic Model
