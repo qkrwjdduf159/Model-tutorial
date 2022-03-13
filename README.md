@@ -15,3 +15,7 @@
 ## Statistic Model
 1. Linear Mixed Model(수정중)
 
+## LSTM(Long Short Term Memory)
+1. Understand LSTM(수정중)
+2. Tutorial LSTM(수정중)
+
