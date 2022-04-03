@@ -14,6 +14,7 @@
 
 ## Statistic Model
 1. Linear Mixed Model(수정중)
+2. Boruta (Feature Selection)
 
 ## LSTM(Long Short Term Memory)
 1. Understand LSTM(수정중)
