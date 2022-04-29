@@ -11,6 +11,7 @@
 2. Mask RCNN
 3. U-Net (수정중)
 4. YOLO v1 (진행중)
+5. R-CNN (진행중)
 
 ## Statistic Model
 1. Linear Mixed Model(수정중)
